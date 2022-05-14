@@ -17,4 +17,3 @@ I'm Hazel. I'm from Ireland and have been working as a **Software Engineer** sin
 ### This site
 
 My plan is to spend more time working on (completing?) side projects, and _maybe_ write a few blog posts, about said projects or my experiences in IT.
-
