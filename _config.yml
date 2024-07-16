@@ -164,7 +164,7 @@ gtag: "G-672Y67EP4G"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5743937637580800-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
